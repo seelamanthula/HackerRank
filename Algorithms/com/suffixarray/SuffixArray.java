@@ -1,7 +1,7 @@
 package com.suffixarray;
 
 /*
- * 
+ *		Algorithm Proposed by : Manber & Mayer
  * 		Input needed: Text String
  * 
  * 		Run time : O(|Text| log |Text|)

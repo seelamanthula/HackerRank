@@ -8,7 +8,8 @@ import java.util.Arrays;
  * 	Time Complexity : O(n log n)
  * 	Space Complexity :  an in-place algorithm
  * 	
- * 	Not a Stable Sort 
+ * 	Not a Stable Sort
+ *	Used in mostly in external sort when need to sort huge files that doesnt fit in the memory.
  */
 		
 

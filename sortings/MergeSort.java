@@ -5,6 +5,8 @@ import java.util.Arrays;
 /*
  * 	Time Complexity : O(nlog n)
  * 	Space Complexity : It needs 2 auxilary arrays each of size n/2.
+ *	
+ *	Not an in place Algorithm, 
  */
 		
 public class MergeSort {
